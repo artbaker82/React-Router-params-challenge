@@ -1,0 +1,25 @@
+.mainWrapper {
+  background-color: rgb(194, 194, 194);
+  height: 100vh;
+  position: relative;
+}
+
+h1 {
+  margin: 0;
+  padding: 1rem 2rem;
+}
+
+.albumsListWrapper {
+  margin: 1rem 1rem;
+}
+
+.selectedAlbumWrapper ul {
+  position: absolute;
+  top: 2rem;
+  left: 1rem;
+  background-color: rgb(202, 202, 202);
+  border-radius: 1rem;
+  padding: 2rem;
+  font-size: 2rem;
+  line-height: 3rem;
+}

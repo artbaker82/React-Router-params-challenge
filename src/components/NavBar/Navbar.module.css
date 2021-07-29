@@ -1,0 +1,9 @@
+.mainNavWrapper {
+  display: flex;
+
+  justify-content: flex-start;
+  background-color: rgba(44, 113, 177, 0.726);
+  height: 5rem;
+  align-items: center;
+  margin: 0;
+}

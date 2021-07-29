@@ -1,0 +1,10 @@
+.navbarItem {
+  text-decoration: none;
+  color: white;
+  margin-left: 1rem;
+  font-size: 1.5rem;
+}
+
+.navbarItem:hover {
+  color: teal;
+}
